@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:23:25.092007
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:51
 #+TITLE: 大乘四法經論廣釋開決記
 #+PROPERTY: CBETA_ID T85n2785
 #+PROPERTY: ID KR6i0596
