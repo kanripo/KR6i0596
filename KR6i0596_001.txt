@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:23:25.092007
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:51
 #+TITLE: 大乘四法經論廣釋開決記
 #+PROPERTY: CBETA_ID T85n2785
 #+PROPERTY: ID KR6i0596
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 85, No. 2785
 #+PROPERTY: VOL 85
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6i0596_T_000-0559a>¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0596_T_001-0559a> ¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.2785¶
-
- 大乘四法經論廣釋開決記¶
+No. 2785¶
+大乘四法經論廣釋開決記¶
 ¶
 
 依何而住。世尊在世自調惡人滅度之後云¶
